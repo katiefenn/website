@@ -1,0 +1,92 @@
+/* @license
+ * MyFonts Webfont Build ID 2608228, 2013-07-23T16:14:50-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Thirsty Script Black by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/black/
+ * 
+ * Webfont: Thirsty Script Bold by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/bold/
+ * 
+ * Webfont: Thirsty Script Light by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/light/
+ * 
+ * Webfont: Thirsty Script ExtraBold by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/extra-bold/
+ * 
+ * Webfont: Thirsty Script Medium by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/medium/
+ * 
+ * Webfont: Thirsty Script by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/regular/
+ * 
+ * Webfont: Thirsty Script Shadow ExtraBold by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/extrabold-122030/
+ * 
+ * Webfont: Thirsty Script Shadow Light by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/light-122030/
+ * 
+ * Webfont: Thirsty Script Shadow Black by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/black-122030/
+ * 
+ * Webfont: Thirsty Script Shadow by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/regular-122030/
+ * 
+ * Webfont: Thirsty Script Shadow Medium by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/medium-122030/
+ * 
+ * Webfont: Thirsty Script Shadow Bold by Yellow Design Studio
+ * URL: http://www.myfonts.com/fonts/yellow-design/thirsty-script/bold-122030/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2608228
+ * Webfonts copyright: Copyright (c) 2012 by Yellow Desing Studio. All rights reserved.
+ * 
+ * © 2013 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/27cc64");
+
+  
+@font-face {font-family: 'ThirstyScriptBlack';src: url('../fonts/27CC64_0_0.eot');src: url('../fonts/27CC64_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_0_0.woff') format('woff'),url('../fonts/27CC64_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScript-Bold';src: url('../fonts/27CC64_1_0.eot');src: url('../fonts/27CC64_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_1_0.woff') format('woff'),url('../fonts/27CC64_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptLight';src: url('../fonts/27CC64_2_0.eot');src: url('../fonts/27CC64_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_2_0.woff') format('woff'),url('../fonts/27CC64_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptExtrabold';src: url('../fonts/27CC64_3_0.eot');src: url('../fonts/27CC64_3_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_3_0.woff') format('woff'),url('../fonts/27CC64_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptMedium';src: url('../fonts/27CC64_4_0.eot');src: url('../fonts/27CC64_4_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_4_0.woff') format('woff'),url('../fonts/27CC64_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptRegular';src: url('../fonts/27CC64_5_0.eot');src: url('../fonts/27CC64_5_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_5_0.woff') format('woff'),url('../fonts/27CC64_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptExtraboldShd';src: url('../fonts/27CC64_6_0.eot');src: url('../fonts/27CC64_6_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_6_0.woff') format('woff'),url('../fonts/27CC64_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptLightShd';src: url('../fonts/27CC64_7_0.eot');src: url('../fonts/27CC64_7_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_7_0.woff') format('woff'),url('../fonts/27CC64_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptBlackShd';src: url('../fonts/27CC64_8_0.eot');src: url('../fonts/27CC64_8_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_8_0.woff') format('woff'),url('../fonts/27CC64_8_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptRegularShd';src: url('../fonts/27CC64_9_0.eot');src: url('../fonts/27CC64_9_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_9_0.woff') format('woff'),url('../fonts/27CC64_9_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScriptMediumShd';src: url('../fonts/27CC64_A_0.eot');src: url('../fonts/27CC64_A_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_A_0.woff') format('woff'),url('../fonts/27CC64_A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'ThirstyScript-BoldShd';src: url('../fonts/27CC64_B_0.eot');src: url('../fonts/27CC64_B_0.eot?#iefix') format('embedded-opentype'),url('../fonts/27CC64_B_0.woff') format('woff'),url('../fonts/27CC64_B_0.ttf') format('truetype');}
+ 

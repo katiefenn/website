@@ -1,0 +1,4 @@
+name: Katie Fenn
+pygments: true
+paginate: 4
+paginate_path: ":num"

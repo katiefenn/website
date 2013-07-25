@@ -1,0 +1,1 @@
+$('.select-navigation select').selectNavigation();

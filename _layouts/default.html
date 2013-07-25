@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ site.name }}</title>
+        <meta name="description" content="">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="/css/normalize.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/fonts.css">
+        <link rel="stylesheet" href="/css/shuttle.css">
+        <script src="/js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+        <div class="wrapper">
+            <div class="content">
+                <h1 class="heading main">{{ site.name }}</h1>
+                <div class="heading main shadow">{{ site.name }}</div>
+                <div class="mobile-navigation">
+                    <form class="select-navigation">
+                        <select>
+                            <option>Go to...</option>
+                            <optgroup label="I Recommend">
+                                <option value="http://www.codinghorror.com/blog/">Coding Horror</option>
+                                <option value="http://www.complicity.co.uk/blog/">Comlicity</option>
+                                <option value="http://daringfireball.net/">Daring Fireball</option>
+                                <option value="http://www.jamesallenonf1.com/">James Allen on F1</option>
+                                <option value="http://37signals.com/svn/">Signal vs. Noise</option>
+                                <option value="http://www.nasa.gov/shuttle/">The Space Shuttle</option>
+                            </optgroup>
+                        </select>
+                    </form>
+                </div>          
+                <div class="sidebar">
+                    <ul class="about">
+                        <li>Web developer</li>
+                        <li>Co-organiser: First Play Sheffield</li>
+                        <li>Video game enthusiast</li>
+                    </ul>
+                    <h2 class="heading">If you liked this...</h2>
+                    <ul class="links">
+                        <li class="link"><a href="http://www.bunny-comic.com/">Bunny</a></li>
+                        <li class="link"><a href="http://www.codinghorror.com/blog/">Coding Horror</a></li>
+                        <li class="link"><a href="http://www.complicity.co.uk/blog/">Comlicity</a></li>
+                        <li class="link"><a href="http://daringfireball.net/">Daring Fireball</a></li>
+                        <li class="link"><a href="http://www.jamesallenonf1.com/">James Allen on F1</a></li>
+                        <li class="link"><a href="http://37signals.com/svn/">Signal vs. Noise</a></li>
+                        <li class="link"><a href="http://www.nasa.gov/shuttle/">The Space Shuttle</a></li>
+                        <li class="link"><a href="http://waffle.wootest.net/">Waffle</a></li>
+                    </ul>
+                </div>
+                {{ content }}
+            </div>
+        </div>
+
+        <div class="decoration grass"></div>
+        <div class="decoration cloud"></div>
+        <div class="decoration shuttle"></div>
+        <div class="decoration exhaust"></div>
+        <div class="decoration mask"></div>
+        <div class="decoration vapour"></div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <script src="/js/select-navigation.js"></script>
+        <script src="/js/main.js"></script>        
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src='//www.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+    </body>
+</html>
