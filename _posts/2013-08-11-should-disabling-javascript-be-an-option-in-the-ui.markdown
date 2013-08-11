@@ -15,6 +15,6 @@ I'm sure that 95% of the internet doesn't _need_ JavaScript. After all, a signif
 
 However, I'd argue that JavaScript has become very important for 95% of the web by traffic: Facebook, Twitter, Google Mail. JavasScript is used on these websites to meaningfully enhance the user experience. Such enhancements are routinely required by people paying for websites, although they are also often paying for the guidance to use JavaScript wisely.
 
-JavaScript _is_ and _should be_ an integral part of the web, and Mozilla is right to withdraw this option from the consumer user. User stories rarely state legacy devices as the reason for supporting the absence of JavaScript. In fact the last time I was given this requirement it was specified in the context of users disabling JavaScript in otherwise functional browsers. I won't deny that there are use cases for websites that operate without JavaScript, but those use cases are now rare.
+JavaScript _is_ and _should be_ an integral part of the web, and Mozilla is right to withdraw this option from the consumer user. User stories rarely state legacy devices as the reason for supporting the absence of JavaScript. In fact the last time I was given this requirement it was specified in the context of users disabling JavaScript in otherwise functional browsers. I won't deny that there are use cases for devices that do not support JavaScript, but those use cases are now rare.
 
 Custom-design select boxes are still entirely unnecessary, though.
