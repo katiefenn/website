@@ -2,7 +2,7 @@
 layout: post
 title:  "G4 Cube Webserver"
 date:   2011-07-09 21:00:00
-categories: projects
+categories: hobbies
 ---
 
 I have been making websites for a long time. I have never hosted any of them, until this year.
