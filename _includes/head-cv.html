@@ -4,12 +4,8 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/cv.css" | prepend: site.baseurl }}">
-    <script src="//localhost:35729/livereload.js"></script>
-    <script type="text/javascript" src="/js/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.keywords.js" ></script>&nbsp;
+    <link rel="stylesheet" href="{{ "/css/cv.css" }}">
 
 </head>
