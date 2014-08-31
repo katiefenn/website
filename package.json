@@ -7,7 +7,7 @@
     "doc": "doc"
   },
   "scripts": {
-    "test": "./node_modules/parker/parker.js css/shuttle.css --strict --format='warnings'"
+    "test": "./node_modules/parker/parker.js --config='parker-config.json'"
   },
   "repository": {
     "type": "git",

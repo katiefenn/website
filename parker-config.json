@@ -1,0 +1,10 @@
+{
+    "files": ["css/shuttle.css"],
+    "format": "warnings",
+    "surpress-colours": true,
+    "warning-figures": {
+        "top-selector-specificity": [90, 100],
+        "total-unique-colours": [10, 10],
+        "total-important-keywords": [0, 0]
+    }
+}

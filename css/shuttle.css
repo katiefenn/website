@@ -288,3 +288,9 @@ body {
 	position: absolute;
 	right: 0;
 }
+
+/* ID selector to test Parker */
+#test {
+    display: none!important;
+    color: #123456;
+}
